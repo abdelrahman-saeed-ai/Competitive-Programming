@@ -1,6 +1,6 @@
 # Competitive Programming & Algorithmic Problem Solving
 
-A structured archive of my solutions to algorithmic problems from **Codeforces** and **ICPC** training tracks (FcdsICPC / NCPC). Focused on writing clean, time- and space-optimized code in **C++** and **Java**.
+A structured archive of my solutions to algorithmic problems from **Codeforces** and **ICPC** training tracks (FcdsICPC). Focused on writing clean, time- and space-optimized code in **C++**.
 
 ## Profiles
 * **Codeforces:** [Abdelrahman30](https://codeforces.com/profile/Abdelrahman30)
