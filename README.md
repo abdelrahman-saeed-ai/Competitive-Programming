@@ -2,7 +2,7 @@
 
 A structured archive of my solutions to algorithmic problems from **Codeforces** and **ICPC** training tracks (FcdsICPC / NCPC). Focused on writing clean, time- and space-optimized code in **C++** and **Java**.
 
-* ## Profiles
+## Profiles
 * **Codeforces:** [Abdelrahman30](https://codeforces.com/profile/Abdelrahman30)
 
 ## Repository Structure
