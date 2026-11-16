@@ -16,5 +16,5 @@ Solutions are categorized by core algorithmic paradigms and data structures:
 * `/math-and-number-theory` — Prime sieves, Modular arithmetic, GCD/LCM, Combinatorics
 
 ## Tech Stack
-* **Languages:** C++ (STL), Java
+* **Language:** C++
 * **Focus Areas:** Time/Space Complexity Analysis, Edge-Case Handling, Algorithmic Optimization
